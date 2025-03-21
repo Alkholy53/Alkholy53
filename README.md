@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdallah+Alkholy!;" />
 </h1>
 
-<h3 align="center">A passionate and dedicated AI developer with expertise in machine learning, Deep Learning, computer vision, and robotics.</h3>
+<h3 align="center">A passionate and dedicated AI student with expertise in machine learning, Deep Learning, computer vision, and robotics.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 **Computer Vision Engineer** | **AAST AI Graduate** | **Freelance Engineer**
+ 🔭 I’m currently studying at **college of AI at AAST**
  
- 🌱 Currently enhancing skills in **Computer Vision, Robotics, and Real-time Sensor Integration**.
+ 🌱 I’m currently learning **Image processing , Computer vision, ADAS**
 
 💬 Ask me about **Machine Learning, Deep Learning, Robotics,..**
 
